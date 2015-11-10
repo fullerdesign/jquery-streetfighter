@@ -50,5 +50,6 @@ body {
   position: absolute;
   z-index: 10;
   top: 34%;
-  right: 0;
+  /*right: 0;*/
+  left: 520px;
 }
